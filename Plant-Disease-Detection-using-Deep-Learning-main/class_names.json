@@ -1,0 +1,230 @@
+[
+    {
+        "class_name": "Apple___Apple_scab",
+        "plant": "Apple",
+        "disease": "Apple Scab",
+        "remedy": "Prune infected branches and apply fungicides like captan or sulfur to prevent further spread."
+    },
+    {
+        "class_name": "Apple___Black_rot",
+        "plant": "Apple",
+        "disease": "Black Rot",
+        "remedy": "Remove and destroy infected fruit and branches. Apply a fungicide during the growing season as a preventive measure."
+    },
+    {
+        "class_name": "Apple___Cedar_apple_rust",
+        "plant": "Apple",
+        "disease": "Cedar Apple Rust",
+        "remedy": "Remove nearby cedar trees if possible. Apply fungicides such as myclobutanil or propiconazole."
+    },
+    {
+        "class_name": "Apple___healthy",
+        "plant": "Apple",
+        "disease": "Healthy",
+        "remedy": "No action needed; maintain regular watering and fertilization for continued health."
+    },
+    {
+        "class_name": "Blueberry___healthy",
+        "plant": "Blueberry",
+        "disease": "Healthy",
+        "remedy": "No action needed; continue proper care and pest management."
+    },
+    {
+        "class_name": "Cherry_(including_sour)___Powdery_mildew",
+        "plant": "Cherry (including sour)",
+        "disease": "Powdery Mildew",
+        "remedy": "Use sulfur-based fungicides and improve air circulation around plants."
+    },
+    {
+        "class_name": "Cherry_(including_sour)___healthy",
+        "plant": "Cherry (including sour)",
+        "disease": "Healthy",
+        "remedy": "No action needed; keep up with routine watering and nutrient management."
+    },
+    {
+        "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+        "plant": "Corn (maize)",
+        "disease": "Cercospora Leaf Spot / Gray Leaf Spot",
+        "remedy": "Rotate crops and apply fungicides like strobilurins early in the growing season."
+    },
+    {
+        "class_name": "Corn_(maize)___Common_rust_",
+        "plant": "Corn (maize)",
+        "disease": "Common Rust",
+        "remedy": "Use resistant hybrids and apply fungicides if the disease is severe."
+    },
+    {
+        "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+        "plant": "Corn (maize)",
+        "disease": "Northern Leaf Blight",
+        "remedy": "Plant resistant varieties and use fungicides when symptoms appear early in the season."
+    },
+    {
+        "class_name": "Corn_(maize)___healthy",
+        "plant": "Corn (maize)",
+        "disease": "Healthy",
+        "remedy": "No action needed; ensure adequate nutrients and water."
+    },
+    {
+        "class_name": "Grape___Black_rot",
+        "plant": "Grape",
+        "disease": "Black Rot",
+        "remedy": "Remove diseased parts and apply fungicides such as mancozeb or copper."
+    },
+    {
+        "class_name": "Grape___Esca_(Black_Measles)",
+        "plant": "Grape",
+        "disease": "Esca (Black Measles)",
+        "remedy": "Prune infected parts and improve drainage to reduce fungal infection."
+    },
+    {
+        "class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "plant": "Grape",
+        "disease": "Leaf Blight (Isariopsis Leaf Spot)",
+        "remedy": "Remove infected leaves and apply protective fungicides."
+    },
+    {
+        "class_name": "Grape___healthy",
+        "plant": "Grape",
+        "disease": "Healthy",
+        "remedy": "No action needed; continue regular maintenance."
+    },
+    {
+        "class_name": "Orange___Haunglongbing_(Citrus_greening)",
+        "plant": "Orange",
+        "disease": "Haunglongbing (Citrus Greening)",
+        "remedy": "Remove and destroy infected trees. Control psyllid populations to prevent spread."
+    },
+    {
+        "class_name": "Peach___Bacterial_spot",
+        "plant": "Peach",
+        "disease": "Bacterial Spot",
+        "remedy": "Use copper-based sprays and ensure proper tree spacing for airflow."
+    },
+    {
+        "class_name": "Peach___healthy",
+        "plant": "Peach",
+        "disease": "Healthy",
+        "remedy": "No action needed; maintain good growing practices."
+    },
+    {
+        "class_name": "Pepper,_bell___Bacterial_spot",
+        "plant": "Pepper, bell",
+        "disease": "Bacterial Spot",
+        "remedy": "Use resistant varieties and copper sprays. Avoid overhead watering."
+    },
+    {
+        "class_name": "Pepper,_bell___healthy",
+        "plant": "Pepper, bell",
+        "disease": "Healthy",
+        "remedy": "No action needed; keep up with regular care."
+    },
+    {
+        "class_name": "Potato___Early_blight",
+        "plant": "Potato",
+        "disease": "Early Blight",
+        "remedy": "Remove infected foliage and apply fungicides such as chlorothalonil."
+    },
+    {
+        "class_name": "Potato___Late_blight",
+        "plant": "Potato",
+        "disease": "Late Blight",
+        "remedy": "Remove and destroy infected plants, and use fungicides like copper sprays."
+    },
+    {
+        "class_name": "Potato___healthy",
+        "plant": "Potato",
+        "disease": "Healthy",
+        "remedy": "No action needed; continue standard care practices."
+    },
+    {
+        "class_name": "Raspberry___healthy",
+        "plant": "Raspberry",
+        "disease": "Healthy",
+        "remedy": "No action needed; maintain regular pruning and pest control."
+    },
+    {
+        "class_name": "Soybean___healthy",
+        "plant": "Soybean",
+        "disease": "Healthy",
+        "remedy": "No action needed; ensure proper nutrient and water levels."
+    },
+    {
+        "class_name": "Squash___Powdery_mildew",
+        "plant": "Squash",
+        "disease": "Powdery Mildew",
+        "remedy": "Use fungicides and increase spacing for airflow around plants."
+    },
+    {
+        "class_name": "Strawberry___Leaf_scorch",
+        "plant": "Strawberry",
+        "disease": "Leaf Scorch",
+        "remedy": "Remove affected leaves and apply fungicides to control spread."
+    },
+    {
+        "class_name": "Strawberry___healthy",
+        "plant": "Strawberry",
+        "disease": "Healthy",
+        "remedy": "No action needed; continue regular maintenance."
+    },
+    {
+        "class_name": "Tomato___Bacterial_spot",
+        "plant": "Tomato",
+        "disease": "Bacterial Spot",
+        "remedy": "Use copper-based fungicides and avoid splashing water on leaves."
+    },
+    {
+        "class_name": "Tomato___Early_blight",
+        "plant": "Tomato",
+        "disease": "Early Blight",
+        "remedy": "Remove infected leaves and apply fungicides like mancozeb."
+    },
+    {
+        "class_name": "Tomato___Late_blight",
+        "plant": "Tomato",
+        "disease": "Late Blight",
+        "remedy": "Remove infected plants and apply fungicides like chlorothalonil."
+    },
+    {
+        "class_name": "Tomato___Leaf_Mold",
+        "plant": "Tomato",
+        "disease": "Leaf Mold",
+        "remedy": "Provide good ventilation and apply fungicides if necessary."
+    },
+    {
+        "class_name": "Tomato___Septoria_leaf_spot",
+        "plant": "Tomato",
+        "disease": "Septoria Leaf Spot",
+        "remedy": "Prune infected leaves and apply fungicides early in the season."
+    },
+    {
+        "class_name": "Tomato___Spider_mites Two-spotted_spider_mite",
+        "plant": "Tomato",
+        "disease": "Spider Mites (Two-Spotted Spider Mite)",
+        "remedy": "Use insecticidal soap or horticultural oils to reduce mite populations."
+    },
+    {
+        "class_name": "Tomato___Target_Spot",
+        "plant": "Tomato",
+        "disease": "Target Spot",
+        "remedy": "Apply fungicides and remove infected leaves to prevent spread."
+    },
+    {
+        "class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "plant": "Tomato",
+        "disease": "Tomato Yellow Leaf Curl Virus",
+        "remedy": "Control whitefly vectors and remove infected plants."
+    },
+    {
+        "class_name": "Tomato___Tomato_mosaic_virus",
+        "plant": "Tomato",
+        "disease": "Tomato Mosaic Virus",
+        "remedy": "Use resistant varieties and avoid handling plants if infected."
+    },
+    {
+        "class_name": "Tomato___healthy",
+        "plant": "Tomato",
+        "disease": "Healthy",
+        "remedy": "No action needed; ensure adequate watering and pest management."
+    }
+]
